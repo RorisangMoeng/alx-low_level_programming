@@ -5,7 +5,7 @@
 /**
  * argstostr - change the params passed to the program string
  * @ac: argument count
- * aiv: argument vector
+ * @av: argument vector
  * Return: .
  */
 char *argstostr(int ac, char **av)
